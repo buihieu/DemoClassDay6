@@ -1,0 +1,1 @@
+ const unsigned char ShareUILibTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ShareUILibTests  PROJECT:ShareUILib-1" "\n"; const double ShareUILibTestsVersionNumber __attribute__ ((used)) = (double)1.;

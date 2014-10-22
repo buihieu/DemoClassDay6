@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/ShareUILib.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ShareUILib-Swift.h",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/ShareUILib.framework/Headers/ShareUILib-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ShareUILib.h",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/ShareUILib/ShareUILib/ShareUILib.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/ShareUILib.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/ShareUILib.framework/Modules/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

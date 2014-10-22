@@ -1,0 +1,6 @@
+framework module CoolLib {
+  umbrella header "CoolLib.h"
+
+  export *
+  module * { export * }
+}

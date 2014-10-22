@@ -1,0 +1,6 @@
+framework module ShareUILib {
+  umbrella header "ShareUILib.h"
+
+  export *
+  module * { export * }
+}

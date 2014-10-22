@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/ShareUILib.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Intermediates/ShareUILib.build/Debug-iphonesimulator/ShareUILib.build/unextended-module.modulemap',
+    }]
+  }]
+}

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/CoolLib.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CoolLib-Swift.h",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/CoolLib.framework/Headers/CoolLib-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CoolLib.h",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/CoolLib/CoolLib/CoolLib.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/CoolLib.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/admin/Desktop/Day06/DemoClass/DerivedData/DemoClass/Build/Products/Debug-iphonesimulator/CoolLib.framework/Modules/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
